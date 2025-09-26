@@ -41,7 +41,7 @@
 		"@medusajs/ui": "^3.0.0",
 		"@rigby-software-house/mercurjs-vendor": "^0.0.4",
 		"@tanstack/react-query": "4.22.0",
-		"body-parser": "^1.19.0",
+		"body-parser": "^2.2.0",
 		"class-validator": "^0.14.1",
 		"cors": "^2.8.5",
 		"dotenv": "16.3.1",
